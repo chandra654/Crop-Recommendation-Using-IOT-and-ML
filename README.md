@@ -26,3 +26,12 @@ Execute the command <b>py app.py</b>
 
 </ol>
 <br>
+
+Images:<br><br>
+<img src="https://user-images.githubusercontent.com/100827579/229976625-fcf8f2a8-5d6a-4b4d-ac1c-381eddb4fff4.png" height="400px"></img>
+<img src="https://user-images.githubusercontent.com/100827579/229976912-d80f8484-c2a1-433c-949a-d58886269f74.png" height="400px"></img>
+<img src="https://user-images.githubusercontent.com/100827579/229978541-4504e84a-bead-4306-be1b-2ae494e18d52.png" height="400px"></img>
+
+
+
+
